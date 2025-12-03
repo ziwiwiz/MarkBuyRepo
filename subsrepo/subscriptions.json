@@ -28,6 +28,33 @@
       "tags": ["VPS", "服务器", "搬瓦工"],
       "region": ["Global"],
       "appStoreId": "null"
+    },
+    {
+        "id": "clawcloud",
+        "name": "ClawCloud",
+        "icon": "https://raw.githubusercontent.com/ziwiwiz/MarkBuyRepo/main/subsicon/clawcloud.png",
+        "category": "云服务",
+        "commonPrices": [
+          {
+            "price": 5.25,
+            "currency": "USD",
+            "billingCycle": "quarterly",
+            "isPermanent": false,
+            "description": "Claw SG - 1C1G20G500G"
+          },
+          {
+            "price": 4,
+            "currency": "USD",
+            "billingCycle": "monthly",
+            "isPermanent": false,
+            "description": "Claw JP - 2C2G40G1T"
+          }
+        ],
+        "website": "https://claw.cloud",
+        "description": "ClawCloud VPS 服务",
+        "tags": ["VPS", "服务器", "ClawCloud"],
+        "region": ["Global"],
+        "appStoreId": "null"
     }
   ]
 }
