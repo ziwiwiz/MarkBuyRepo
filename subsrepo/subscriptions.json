@@ -1,0 +1,33 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2025-12-03T10:00:00Z",
+  "subscriptions": [
+    {
+      "id": "bwg",
+      "name": "搬瓦工",
+      "icon": "https://raw.githubusercontent.com/ziwiwiz/MarkBuyRepo/main/subsicon/bwg.png",
+      "category": "vps",
+      "commonPrices": [
+        {
+          "price": 29.88,
+          "currency": "USD",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "2018-11-11 CN2 Special V3"
+        },
+        {
+          "price": 45.68,
+          "currency": "USD",
+          "billingCycle": "annually",
+          "isPermanent": false,
+          "description": "NODESEEK-MEGABOX-PRO"
+        }
+      ],
+      "website": "https://bandwagonhost.com",
+      "description": "搬瓦工 VPS 服务",
+      "tags": ["VPS", "服务器", "搬瓦工"],
+      "region": ["Global"],
+      "appStoreId": "null"
+    }
+  ]
+}
