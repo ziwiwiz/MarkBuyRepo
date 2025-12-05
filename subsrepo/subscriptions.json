@@ -365,14 +365,14 @@
       "category": "vps",
       "commonPrices": [
         {
-          "price": 9.99,
+          "price": 9.90,
           "currency": "USD",
           "billingCycle": "annually",
           "isPermanent": false,
           "description": "Special Offer - Osaka AMD Ryzen9 Performance VPS - Specials - Lite"
         },
         {
-          "price": 9.99,
+          "price": 9.90,
           "currency": "USD",
           "billingCycle": "annually",
           "isPermanent": false,
